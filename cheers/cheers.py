@@ -3,7 +3,7 @@ from discord.ext import commands
 from random import randint
 from random import choice
 
-class Drinks:
+class Cheers:
     """Grab a glass and share it with your mates"""
 
     def __init__(self, bot):
@@ -23,5 +23,5 @@ class Drinks:
 # this is a really useless thing but hey i coded it so it is indeed special!
 
 def setup(bot):
-    bot.add_cog(Drinks(bot))
+    bot.add_cog(Cheers(bot))
 
