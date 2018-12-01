@@ -1,9 +1,12 @@
 {
     "AUTHOR" : "Nick",
-    "INSTALL_MSG" : "Done.",
+    "DESCRIPTION" : "Use [P]cheers @user for some brew to go around to your mates!",
+    "INSTALL_MSG" : "GOT THE BEERS!",
     "NAME" : "cheers",
-    "SHORT" : "Share a brew with your mates!",
-    "DESCRIPTION" : "A cog about coming together!",
-    "TAGS" : ["beer", "useless", "fun"],
-    "REQUIREMENTS" : []
+    "REQUIREMENTS" : [],
+    "SHORT" : "Grab your mugs!",
+    "TAGS" : [
+        "fun",
+        "useless"
+    ]
 }
