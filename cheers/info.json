@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "Nick",
+    "INSTALL_MSG" : "Done.",
+    "NAME" : "cheers",
+    "SHORT" : "Share a brew with your mates!",
+    "DESCRIPTION" : "A cog about coming together!",
+    "TAGS" : ["beer", "useless", "fun"],
+    "REQUIREMENTS" : []
+}
