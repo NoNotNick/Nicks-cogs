@@ -1,0 +1,12 @@
+{
+    "AUTHOR" : "Nick",
+    "DESCRIPTION" : "",
+    "INSTALL_MSG" : "OWO you are now a hacker my son.",
+    "NAME" : "Hack",
+    "REQUIREMENTS" : [],
+    "SHORT" : "This is a dumb little hacking command made to be like the one on memebot please edit it if you want",
+    "TAGS" : [
+        "fun",
+        "useless"
+    ]
+}
