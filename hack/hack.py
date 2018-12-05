@@ -17,6 +17,7 @@ class Hacking:
             'this1ssecure', 'hackmedaddy', 'specialSnowflakeIsDaBest', 'i love you'
         ]
 
+#feel free to edit this code 
 
     @commands.command()
     async def hack(self, user : discord.Member):
