@@ -17,6 +17,7 @@ class Cheers:
             n = randint(1, number)
             u = user.mention
             await self.bot.say("{} Woo-wee grab your mugs! Because You have {} Beers".format(author.mention, n))
+            await self.bot.say("And you both grab your mugs and put them in there air before screaming CHEERS!. And you and {} downed every last drop. It was a good night".format(u))
         else:
             await self.bot.say("{} You broke all the bottles".format(author.mention))
        
